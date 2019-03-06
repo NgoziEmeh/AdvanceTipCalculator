@@ -35,3 +35,4 @@ var mark = {
         this.allTips[i] = this.bills[i] * 0.1;
         this.finalPaid[i] = this.bills[i] + this.allTips[i];
       }else{  
+        this.allTips[i] = this.bills[i] * 0.25;

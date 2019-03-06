@@ -25,3 +25,4 @@ var mark = {
   fullName: 'Mark Vendor',
   bills: [77, 375, 110, 35],
   allTips: [],
+  finalPaid: [],

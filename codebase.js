@@ -27,3 +27,4 @@ var mark = {
   allTips: [],
   finalPaid: [],
   calcTip: function (){
+    for (var i = 0; i <= this.bills.length; i++){

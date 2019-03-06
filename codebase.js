@@ -8,4 +8,5 @@ var john = {
       if (this.bills[i] < 50){
         this.allTips[i] = this.bills[i] * 0.2;
         this.finalPaid[i] = this.allTips[i] + this.bills[i];
-    }else if (this.bills[i] >= 50 && this.bills[i] <= 200){    
+      }else if (this.bills[i] >= 50 && this.bills[i] <= 200){
+        this.allTips[i] = this.bills[i] * 0.15;

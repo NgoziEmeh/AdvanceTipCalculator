@@ -47,3 +47,4 @@ console.log(mark.allTips);
 // FINDING AVERAGE OF THE TIP ARRAY USING FOR LOOP 
 var markSum = 0;
 for (var i = 0; i < mark.allTips.length; i++){
+  markSum += mark.allTips[i];

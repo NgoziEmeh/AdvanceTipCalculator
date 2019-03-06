@@ -49,3 +49,4 @@ var markSum = 0;
 for (var i = 0; i < mark.allTips.length; i++){
   markSum += mark.allTips[i];
   markAverage = markSum/mark.allTips.length;
+};  

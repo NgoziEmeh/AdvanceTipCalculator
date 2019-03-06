@@ -1,2 +1,2 @@
 # AdvanceTipCalculator
-Advanced Tip Calculator with THIS and REDUCE methds
+Advanced Tip Calculator with THIS and REDUCE methods

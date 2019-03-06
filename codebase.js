@@ -71,3 +71,4 @@ var johnSum2 = john.allTips.reduce(function(total, val){
 console.log(markSum2, johnSum2, markSum2/mark.allTips.length, johnSum2/john.allTips.length);
 
 // LOG ON CONSOLE TO SHOW WHO PAID HIGHER TIP
+if (markAverage > johnAverage){

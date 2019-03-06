@@ -34,3 +34,4 @@ var mark = {
       }else if (this.bills[i] >= 100 && this.bills[i] <= 300){
         this.allTips[i] = this.bills[i] * 0.1;
         this.finalPaid[i] = this.bills[i] + this.allTips[i];
+      }else{  

@@ -73,3 +73,4 @@ console.log(markSum2, johnSum2, markSum2/mark.allTips.length, johnSum2/john.allT
 // LOG ON CONSOLE TO SHOW WHO PAID HIGHER TIP
 if (markAverage > johnAverage){
   console.log('Mark\'s family paid the highest tip value of $' + markSum);
+}else if (markAverage === johnAverage){  

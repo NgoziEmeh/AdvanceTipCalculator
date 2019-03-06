@@ -55,3 +55,5 @@ var johnSum = 0;
 for (var i = 0; i < john.allTips.length; i++){
   johnSum += john.allTips[i];
   johnAverage = johnSum/john.allTips.length;
+}
+console.log(markSum, johnSum, markAverage, johnAverage);

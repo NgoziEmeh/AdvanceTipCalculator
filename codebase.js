@@ -52,3 +52,4 @@ for (var i = 0; i < mark.allTips.length; i++){
 };  
 
 var johnSum = 0;
+for (var i = 0; i < john.allTips.length; i++){

@@ -30,3 +30,4 @@ var mark = {
     for (var i = 0; i <= this.bills.length; i++){
       if (this.bills[i] < 100){
         this.allTips[i] = this.bills[i] * 0.2;
+        this.finalPaid[i] = this.bills[i] + this.allTips[i];

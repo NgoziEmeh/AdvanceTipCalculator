@@ -60,3 +60,7 @@ console.log(markSum, johnSum, markAverage, johnAverage);
 
 
 // FINDING AVERAGE OF THE TIP ARRAY USING REDUCE METHOD
+var markSum2 = mark.allTips.reduce(function(total, val){
+    return total += val;
+    
+});

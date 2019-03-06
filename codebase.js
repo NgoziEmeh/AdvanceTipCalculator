@@ -22,3 +22,4 @@ john.calcTip();
 console.log(john);
 
 var mark = {
+  fullName: 'Mark Vendor',

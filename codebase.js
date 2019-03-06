@@ -28,3 +28,4 @@ var mark = {
   finalPaid: [],
   calcTip: function (){
     for (var i = 0; i <= this.bills.length; i++){
+      if (this.bills[i] < 100){

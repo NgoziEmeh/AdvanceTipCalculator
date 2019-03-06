@@ -43,3 +43,5 @@ var mark = {
 };  
 mark.calcTip();
 console.log(mark.allTips);
+
+// FINDING AVERAGE OF THE TIP ARRAY USING FOR LOOP 

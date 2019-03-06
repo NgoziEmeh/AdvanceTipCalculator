@@ -41,3 +41,5 @@ var mark = {
     }
   }
 };  
+mark.calcTip();
+console.log(mark.allTips);

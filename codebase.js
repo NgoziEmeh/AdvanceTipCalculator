@@ -13,3 +13,4 @@ var john = {
         this.finalPaid[i] = this.allTips[i] + this.bills[i];
       }else{
         this.allTips[i] = this.bills[i] * 0.10;
+        this.finalPaid[i] = this.allTips[i] + this.bills[i];

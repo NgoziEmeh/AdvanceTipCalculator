@@ -20,3 +20,5 @@ var john = {
 };
 john.calcTip();
 console.log(john);
+
+var mark = {

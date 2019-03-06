@@ -57,3 +57,6 @@ for (var i = 0; i < john.allTips.length; i++){
   johnAverage = johnSum/john.allTips.length;
 }
 console.log(markSum, johnSum, markAverage, johnAverage);
+
+
+// FINDING AVERAGE OF THE TIP ARRAY USING REDUCE METHOD

@@ -22,6 +22,7 @@ var john = {
 john.calcTip();
 console.log(john);
 
+//MARK'S TIP CALCULATOR
 var mark = {
   fullName: 'Mark Vendor',
   bills: [77, 375, 110, 35],

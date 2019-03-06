@@ -75,3 +75,4 @@ if (markAverage > johnAverage){
   console.log('Mark\'s family paid the highest tip value of $' + markSum);
 }else if (markAverage === johnAverage){  
   console.log('Both Mark\'s and John\'s paid equal value of tip');
+}else{  

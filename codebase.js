@@ -68,3 +68,4 @@ var markSum2 = mark.allTips.reduce(function(total, val){
 var johnSum2 = john.allTips.reduce(function(total, val){
     return total += val;
 });
+console.log(markSum2, johnSum2, markSum2/mark.allTips.length, johnSum2/john.allTips.length);

@@ -7,3 +7,4 @@ var john = {
     for (var i = 0; i <= this.bills.length; i++){
       if (this.bills[i] < 50){
         this.allTips[i] = this.bills[i] * 0.2;
+        this.finalPaid[i] = this.allTips[i] + this.bills[i];

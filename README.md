@@ -7,3 +7,5 @@ HOW TO USE:
 - Download, copy or clone the code into your system
 
 - Open with a code editor
+
+- Run on the console

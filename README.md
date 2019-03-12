@@ -4,4 +4,4 @@ Advanced Tip Calculator with THIS and REDUCE methods.
 
 HOW TO USE:
 
-Download, copy
+- Download, copy or clone the code into your system
